@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ResendValidationEmail&k=1:
+  /?Action=ResendValidationEmail:
     get:
       summary: Resend Validation Email
       description: Resends the email that requests domain ownership validation
