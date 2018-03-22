@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeCertificate&k=1:
+  /?Action=DescribeCertificate:
     get:
       summary: Describe Certificate
       description: Returns a list of the fields contained in the specified ACM Certificate
