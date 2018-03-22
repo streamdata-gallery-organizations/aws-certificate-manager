@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetCertificate&k=1:
+  /?Action=GetCertificate:
     get:
       summary: Get Certificate
       description: |-
