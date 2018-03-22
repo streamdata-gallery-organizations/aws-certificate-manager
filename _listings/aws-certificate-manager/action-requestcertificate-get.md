@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=RequestCertificate&k=1:
+  /?Action=RequestCertificate:
     get:
       summary: Request Certificate
       description: Requests an ACM Certificate for use with other AWS services
