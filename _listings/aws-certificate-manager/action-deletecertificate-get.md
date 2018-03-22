@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteCertificate&k=1:
+  /?Action=DeleteCertificate:
     get:
       summary: Delete Certificate
       description: Deletes an ACM Certificate and its associated private key
