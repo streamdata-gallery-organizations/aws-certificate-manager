@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-certificate-manager.api.streamdata.gallery
+title: Streamdata Gallery AWS Certificate Manager
+url: aws-certificate-manager.streamdata.gallery
 tag: AWS Certificate Manager
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-certificate-manager
 github_branch: master
 collections:
