@@ -13,10 +13,10 @@ description: AWS Certificate Manager is a service that lets you easily provision
   you create to run your application.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: AWS Certificate Manager
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-certificate-manager/master/_listings/aws-certificate-manager/apis.md
 specificationVersion: "0.14"
 apis:
