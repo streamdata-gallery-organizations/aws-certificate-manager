@@ -5,7 +5,7 @@ description: This is a repository of aws certificate manager APIs, self-containe
   surrounding operations.
 image: http://template.streamdata.gallery/assets/aws-certificate-manager.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://aws-certificate-manager.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
